@@ -5,11 +5,6 @@
       <js>/_ui/addons/commerceorgaddon/responsive/common/js/commerceorgnavigation.js</js>
       <js>/_ui/addons/commerceorgaddon/responsive/common/js/commerceorgaddon.js</js>
       <js>/_ui/addons/commerceorgaddon/responsive/common/js/jquery.validate.js</js>
-      <js>/_ui/addons/b2bacceleratoraddon/responsive/common/js/acc.checkoutsummary.js</js>
-      <js>/_ui/addons/b2bacceleratoraddon/responsive/common/js/acc.paymentType.js</js>
-      <js>/_ui/addons/b2bacceleratoraddon/responsive/common/js/acc.replenishment.js</js>
-      <js>/_ui/addons/b2bacceleratoraddon/responsive/common/js/acc.orderform.js</js>
-      <js>/_ui/addons/b2bacceleratoraddon/responsive/common/js/acc.approval.js</js>
    </group>
 </groups>
 
