@@ -1,4 +1,5 @@
-
+# folders/files to always ignore
+.metadata
 **/gensrc
 
 #IDE files
