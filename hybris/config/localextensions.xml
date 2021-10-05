@@ -1,13 +1,13 @@
 <hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
   <extensions>
     <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
-	<extension name="ardctrainingcore"/>
-      <extension name="ardctrainingbackoffice"/>
-      <extension name="ardctrainingfacades"/>
-      <extension name="ardctrainingfulfilmentprocess"/>
-      <extension name="ardctraininginitialdata"/>
-      <extension name="ardctrainingtest"/>
-      <extension name="ardctrainingstorefront"/>
+   <extension name="ardctrainingcore"/>
+   <extension name="ardctrainingbackoffice"/>
+   <extension name="ardctrainingfacades"/>
+   <extension name="ardctrainingfulfilmentprocess"/>
+   <extension name="ardctraininginitialdata"/>
+   <extension name="ardctrainingtest"/>
+   <extension name="ardctrainingstorefront"/>
 
     <extension name='adaptivesearch' />
     <extension name='adaptivesearchbackoffice' />
@@ -36,7 +36,6 @@
     <extension name='b2bwebservicescommons' />
     <extension name='commerceorgaddon' />
     <extension name='commerceorgsamplesaddon' />
-    <extension name='powertoolsstore' />
     <extension name='accountsummaryaddon' />
     <extension name='b2bpunchout' />
     <extension name='b2bpunchoutaddon' />
@@ -48,7 +47,6 @@
     <extension name='b2bcommerce' />
     <extension name='b2bcommercebackoffice' />
     <extension name='b2bcommercefacades' />
-    <extension name='apparelstore' />
     <extension name='electronicsstore' />
     <extension name='captchaaddon' />
     <extension name='multicountrysampledataaddon' />
@@ -59,10 +57,6 @@
     <extension name='backofficesolrsearch' />
     <extension name='platformbackoffice' />
     <extension name='ybackoffice' />
-
-
-
-
     <extension name='yaddon' />
     <extension name='basecommerce' />
     <extension name='basecommercebackoffice' />
@@ -173,7 +167,6 @@
     <extension name='warehousingbackoffice' />
     <extension name='warehousingfacades' />
     <extension name='warehousingwebservices' />
-
     <extension name='personalizationcms' />
     <extension name='personalizationcmsbackoffice' />
     <extension name='personalizationcmsweb' />
@@ -258,12 +251,5 @@
     <extension name='permissionswebservices' />
     <extension name='webservicescommons' />
     <extension name='ywebservices' />
-    <extension name='orbeonweb' />
-    <extension name='xyformsbackoffice' />
-    <extension name='xyformsfacades' />
-    <extension name='xyformssamples' />
-    <extension name='xyformsservices' />
-    <extension name='xyformsstorefrontcommons' />
-    <extension name='xyformsweb' />
   </extensions>
 </hybrisconfig>
