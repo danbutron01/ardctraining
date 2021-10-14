@@ -12,4 +12,10 @@
   		<property name="name" value="labels"/>
   	</bean>
 
+	<bean id="customProductlabelProvider" class="com.ardctraining.backoffice.labels.CustomProductLabelLabel"/>
+
+
+
+	<bean id="customerFeedbackProvider" class="com.ardctraining.backoffice.feedback.CustomerFeedbackLabel"/>
+
 </beans>

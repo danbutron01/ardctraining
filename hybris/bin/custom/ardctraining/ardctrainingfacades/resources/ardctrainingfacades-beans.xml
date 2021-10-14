@@ -17,4 +17,14 @@
 		<property name="label" type="java.lang.String" />
 		<property name="type" type="java.lang.String" />
 	</bean>
+
+	<bean class="com.ardctraining.facades.feedback.data.CustomerFeedbackData">
+		<property name="subject" type="java.lang.String"/>
+		<property name="message" type="java.lang.String"/>
+		<property name="submittedDate" type="java.util.Date"/>
+		<property name="status" type="com.ardctraining.core.enums.FeedbackStatusEnum"/>
+	</bean>
+	
+
+
 </beans>
